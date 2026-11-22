@@ -1,5 +1,5 @@
 void setup() {
-  serial.begin(9600);
+  Serial.begin(9600);
   Serial.println("Zdravo svijete!");
 
 }
